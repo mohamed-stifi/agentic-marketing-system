@@ -167,9 +167,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## 📄 License
 
 This project is licensed under the MIT License.
-```
-
-### How to use this:
-1.  Create a file named `README.md` in the root of your project directory.
-2.  Paste the content above into that file.
-3.  You can replace the placeholder image URL with a screenshot of your actual running application for better presentation.
