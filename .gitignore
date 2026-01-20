@@ -1,0 +1,107 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# Logs & Runtime
+# =========================
+logs/
+*.log
+*.pid
+
+# =========================
+# Build / Dist
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# React / Node
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# React builds
+frontend/build/
+frontend/dist/
+build/
+
+# =========================
+# Cache / Tooling
+# =========================
+.cache/
+.eslintcache
+.vite/
+.parcel-cache/
+
+# =========================
+# IDEs / Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Testing / Coverage
+# =========================
+coverage/
+reports/
+
+# =========================
+# Temporary / Generated
+# =========================
+tmp/
+temp/
+*.bak
+
+# =========================
+# AI / Workflow Artifacts (Optional)
+# =========================
+merged_output.txt
+all_py_files.txt
+*.prompt
+*.context
+*.trace
+all_backend_files.txt
+all_frontend_files.txt
+test.py
